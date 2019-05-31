@@ -1,0 +1,2 @@
+java -jar selenium-server-standalone-2.53.0.jar -role hub -hubConfig hubConfiguration.json
+java -Dwebdriver.chrome.driver="D:\CS-22\Filatov\Ырср 9 (Selenium Grid)\SeleniumGrid\chromedriver_win32\chromedriver.exe" -jar selenium-server-standalone-2.46.0.jar -role node -nodeConfig nodeConfiguration.json -browser browserName=chrome,version=ANY,maxInstances=5,platform=WINDOWS

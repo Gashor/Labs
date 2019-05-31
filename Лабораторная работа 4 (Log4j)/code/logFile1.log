@@ -1,0 +1,5 @@
+2019-03-04 22:43:33 [DEBUG] Calculator:13 - SUM: first: 2, second: 2, result: 4
+2019-03-04 22:43:33 [INFO ] Calculator:19 - MINUS: first: 2, second: 2, result: 0
+2019-03-04 22:43:33 [WARN ] Calculator:25 - MULTIPLY: first: 2, second: 2, result: 4
+2019-03-04 22:43:33 [ERROR] Calculator:39 - DIVIDE: first: 2, second: 2, result: 1
+2019-03-04 22:43:33 [FATAL] Calculator:35 - DIVISION BY ZERO

@@ -1,0 +1,15 @@
+<acceptance-test-run title="Test" name="test" steps="3" successful="3" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="17503" timestamp="2019-04-08T18:46:24.922+03:00">
+  <user-story id="com.filatov.Tests" name="Tests" path="com.filatov"/>
+  <tags>
+    <tag name="Tests" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="7938">
+    <description>The user visit a page &lt;span class=&apos;step-parameter&apos;&gt;https://pn.com.ua&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="3939">
+    <description>When the user chooses category Sofas </description>
+  </test-step>
+  <test-step result="SUCCESS" duration="5050">
+    <description>Producers of current goods equals to &lt;span class=&apos;step-parameter&apos;&gt;AMF&lt;/span&gt;</description>
+  </test-step>
+</acceptance-test-run>

@@ -1,0 +1,2 @@
+2019-03-04 22:43:33 [ERROR] Calculator:39 - DIVIDE: first: 2, second: 2, result: 1
+2019-03-04 22:43:33 [FATAL] Calculator:35 - DIVISION BY ZERO
